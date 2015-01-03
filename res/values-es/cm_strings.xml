@@ -46,32 +46,27 @@
     <string name="cities_delete_city_title">Eliminar ciudad</string>
     <string name="cities_delete_city_msg">Quieres eliminar <xliff:g id="city">%s</xliff:g>?</string>
     <string name="cities_delete_city_failed">No se puede borrar la ciudad</string>
+    
+    <!-- Setting summary for volume buttons setting. -->
+    <string name="volume_buttons_summary">Presionando botones de volumen <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Setting title for the flip action setting. -->
     <string name="flip_action_title">Acción de voltear</string>
 
-    <!-- Dialog title of the flip action setting. -->
-    <string name="flip_action_dialog_title" product="tablet">Voltear tablet\u2026</string>
-    <string name="flip_action_dialog_title" product="default">Voltear teléfono\u2026</string>
-
     <!-- Setting summary for the flip action setting. -->
-    <string name="flip_action_summary" product="tablet">Volteando tablet <xliff:g id="action">%s</xliff:g></string>
-    <string name="flip_action_summary" product="default">Volteando teléfono <xliff:g id="action">%s</xliff:g></string>
+    <string name="flip_action_summary" product="tablet">Volteando la tablet <xliff:g id="action">%s</xliff:g></string>
+    <string name="flip_action_summary" product="default">Volteando el teléfono <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Setting title for the shake action setting. -->
     <string name="shake_action_title">Acción de agitar</string>
-
-    <!-- Dialog title for the shake action setting. -->
-    <string name="shake_action_dialog_title" product="tablet">Agitar tablet\u2026</string>
-    <string name="shake_action_dialog_title" product="default">Agitar teléfono\u2026</string>
 
     <!-- Setting summary for the shake action setting. -->
     <string name="shake_action_summary" product="tablet">Agitando la tablet  <xliff:g id="action">%s</xliff:g></string>
     <string name="shake_action_summary" product="default">Agitando el telefono  <xliff:g id="action">%s</xliff:g></string>
 
     <!-- Summary texts for shake and flip actions -->
-    <string name="action_summary_snooze">snooze alarma</string>
-    <string name="action_summary_dismiss">descarta alarma</string>
+    <string name="action_summary_snooze">pospone la alarma</string>
+    <string name="action_summary_dismiss">descarta la alarma</string>
     <string name="action_summary_do_nothing">no hace nada</string>
 
     <!-- Alarm picker dialog title -->
